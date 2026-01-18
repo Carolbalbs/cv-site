@@ -1,0 +1,127 @@
+# Base UI translations (theme-ready). Add/remove keys as needed.
+
+[read_more]
+other = "Leia mais"
+
+[by]
+other = "por"
+
+[posted_on]
+other = "Publicado em"
+
+[tags]
+other = "Tags"
+
+[contact]
+other = "Contato"
+
+[send]
+other = "Enviar"
+
+[skills]
+other = "Habilidades"
+
+[experience]
+other = "Experiência"
+
+[about]
+other = "Sobre"
+
+[blog]
+other = "Blog"
+
+[engineering]
+other = "Engenharia"
+
+[contributions]
+other = "Contribuições"
+
+[technical]
+other = "Stacks"
+
+[language]
+other = "Idioma"
+
+[getInTouch]
+other = "Entre em Contato"
+
+[learnMore]
+other = "Saiba mais"
+
+[sendMeAMessage]
+other = "Envie-me uma mensagem"
+
+[contactInformation]
+other = "Informações de Contato"
+
+[priorityContact]
+other = "Contato Prioritário"
+
+[aboutMe]
+other = "Sobre Mim"
+
+[connectOnLinkedIn]
+other = "Conecte-se no LinkedIn"
+
+[quickFacts]
+other = "Fatos Rápidos"
+
+[more]
+other = "Mais"
+
+[aboutName]
+other = "Sobre"
+
+[relatedContent]
+other = "Conteúdo Relacionado"
+
+[interests]
+other = "Interesses"
+
+[languages]
+other = "Idiomas"
+
+[helloIm]
+other = "Olá, eu sou"
+
+[viewCV]
+other = "Ver Currículo"
+
+[downloadResume]
+other = "Baixar Currículo"
+
+[keyAchievements]
+other = "Principais Conquistas"
+
+[demoImageAlt]
+other = "Imagem de Demonstração"
+
+[galleryNotFound]
+other = "Imagens da galeria não encontradas em"
+
+[viewOnGithub]
+other = "Ver código completo no GitHub"
+
+[iframeIdRequired]
+other = "Erro: parâmetro 'id' é obrigatório para o shortcode iframe."
+
+[fullscreen]
+other = "Tela Cheia"
+
+[youtubePlayerTitle]
+other = "Reprodutor de vídeo do YouTube"
+
+[vimeoPlayerTitle]
+other = "Reprodutor de vídeo do Vimeo"
+
+[pageNotFound]
+other = "Página Não Encontrada"
+
+[pageNotFoundSubtitle]
+other = "A página que você procura não existe."
+
+[goHome]
+other = "Ir para Home"
+
+[certainlyNotHere]
+other = "Certamente, não está aqui"

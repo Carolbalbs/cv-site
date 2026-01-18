@@ -1,0 +1,31 @@
+[[main]]
+name = "Sobre"
+url = "/#about"
+weight = 2
+
+[[main]]
+name = "skills"
+url = "/#skills"
+weight = 3
+
+[[main]]
+name = "Experiência"
+url = "/#experience"
+weight = 4
+
+[[main]]
+name = "Contato"
+url = "/#contact"
+weight = 5
+
+[[main]]
+name = "Stacks"
+url = "/#technical"
+weight = 4.5
+
+[[main]]
+name = "Blog"
+url = "https://carolbalbs.github.io/myblog/"
+weight = 60
+
+
