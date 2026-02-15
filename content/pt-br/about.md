@@ -1,50 +1,48 @@
 ---
-title: "About"
+title: "Sobre"
 author: "Ana Carolina Balbino"
 type: "homepage"
-featured_image: "/images/sobre.jpg"
-intro: >-
-  Hi! I'm Ana Carolina Balbino, a **structural engineer** 🏗️ and **full stack developer** 💻 with **14+ years** in AEC and software development, now specializing in **AI/ML** 🤖. My journey has taken me from **Chile to Montréal**, where I combine traditional engineering with modern technology to solve complex problems in engineering and automation. Currently, I'm an **AI and Full Stack Developer** at <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, building security and compliance solutions for LLM-based AI agents. Recently, I was honored with the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) 🏆 for my achievements in AI/ML studies.
+featured_image: "/images/about.jpg"
 
 study: >-
-  Currently based in **Montréal** 🇨🇦, I'm deepening my skills in **Artificial Intelligence and Machine Learning** 🤖 at **Collège LaSalle**. I work with **Python** 🐍, **PyTorch**, and **predictive modeling** 📊 to build intelligent systems that bridge the gap between engineering and data science.
+  Estou aprofundando minhas habilidades em **Inteligência Artificial e Machine Learning** 🤖 através de projetos pessoais. A linguagem que mais utilizo no momento é **Python** 🐍. para construir pequenos projetos inteligentes que conectam engenharia e ciência de dados.
 
-passion_title: "What I'm passionate about"
+passion_title: "O que me motiva"
 passion_text: >-
-  I'm passionate about learning and applying **AI to real-world engineering challenges** 🔬. At <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, I design and develop **scalable full-stack solutions** using **Python (FastAPI, NestJS)** and **React (Next.js, TypeScript)** for LLM-based security and compliance platforms, maintaining a **50/50 split between backend and frontend development** ⚖️. I implement and optimize **PostgreSQL databases**, apply **OOP principles and design patterns (DRY, YAGNI, SOLID)** to build maintainable codebases, and collaborate with **global distributed teams** in Agile Scrum environments 🤝. Previously at <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, I led the development of **autonomous structural analysis tools** and **ML models** for concrete estimation 🏢. My goal is to create **innovative solutions** that have a real impact on the built environment.
-
+  Adoro aprender e aplicar coisas novas, principalmente para resolver desafios reais do cotidiano. 
+  
 mix: >-
-  With experience in both **structural engineering** 🏗️ and **software development** 💻, I bring a **unique perspective** to technical challenges. I've led teams in building everything from **physical structures to scalable software systems**, always focusing on **practical, efficient solutions** ⚡. My **international background** and commitment to **continuous learning** drive me to bridge disciplines and deliver value across industries.
+  Com experiência em **engenharia estrutural** 🏗️ e **desenvolvimento de software** 💻, trago uma **perspectiva única** para desafios técnicos. Liderarei equipes na construção desde **estruturas físicas até sistemas de software escaláveis**, sempre focando em **soluções práticas e eficientes** ⚡. Meu **background internacional** e compromisso com **aprendizado contínuo** me impulsionam a conectar disciplinas e entregar valor entre indústrias.
 
 personal: >-
-  Outside work, I enjoy **tennis** 🎾, **cooking** 👨‍🍳, **drums** 🥁, **swimming** 🏊‍♂️, and **photography** 📸. I also **volunteer at LaSalle College**, helping new students settle in and supporting the academic community 🤝.
+  Fora do trabalho, gosto de **tênis** 🎾, **cozinhar** 👨‍🍳, **bateria** 🥁, **nadar** 🏊‍♂️ e **fotografia** 📸. Também **voluntário no Collège LaSalle**, ajudando novos alunos a se adaptarem e apoiando a comunidade acadêmica 🤝.
 
 quickfacts:
   - icon: "briefcase"
-    title: "Current Role"
-    value: "🤖 AI and Full Stack Developer at <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    title: "Função Atual"
+    value: "🤖 Desenvolvedora de IA e Full Stack na <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
   - icon: "graduation-cap"
-    title: "Education"
-    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Chile</a>, **Bachelor's Degree in Civil Engineering**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Artificial Intelligence and Machine Learning**"
+    title: "Educação"
+    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">Universidade do Chile</a>, **Bacharelado em Engenharia Civil**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Inteligência Artificial e Machine Learning**"
   - icon: "award"
-    title: "Recent Achievement"
-    value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
+    title: "Conquista Recente"
+    value: "🏆 Recipiendária da <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Bolsa de Excelência Acadêmica</a> 🎓 patrocinada por ✈️ Air Canada no Collège LaSalle Montréal (2025) 🎉"
   - icon: "language"
-    title: "Languages"
+    title: "Idiomas"
     value: |
-      - 🇬🇧 English  (B2)
-      -  Português (Nativo)
-
+      - 🇬🇧 Inglês (IELTS C1)
+      - 🇪🇸 Espanhol (Nativo)
+      - 🇫🇷 Francês (TCF B2)
   - icon: "heart"
-    title: "Interests"
+    title: "Interesses"
     value: |
-      - ♟️ Chess
-      - 🎾 Tennis
-      - 🚴 Cycling
-      - 🏊‍♂️ Swimming
-      - 👨‍🍳 Cooking
-      - 🥁 Drumming
-      - 📸 Photography
-      - ✈️ Traveling
-      - 📚 Reading
+      - ♟️ Xadrez
+      - 🎾 Tênis
+      - 🚴 Ciclismo
+      - 🏊‍♂️ Natação
+      - 👨‍🍳 Cozinha
+      - 🥁 Bateria
+      - 📸 Fotografia
+      - ✈️ Viagens
+      - 📚 Leitura
 ---

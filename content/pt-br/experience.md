@@ -6,8 +6,8 @@ intro: >-
   com sólida formação acadêmica em modelagem computacional, sistemas de tempo real e IA aplicada.
 
 
-resume_url_en: "/files/cv-en.pdf"
-resume_url_pt_br: "/files/cv-pt.pdf"
+resume_url_en: "/files/[DADOS]CV[en].pdf"
+resume_url_pt_br: "/files/[DADOS]CV[pt].pdf"
 resume_label: "Download CV"
 positions:
   - company: "Juros Baixos Company"

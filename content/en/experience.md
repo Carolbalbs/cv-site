@@ -5,8 +5,8 @@ intro: >-
   Experience in Customer Experience, Data Analysis, Machine Learning, and Scientific Research,
   with a strong academic background in computational modeling, real-time systems, and applied AI.
 
-resume_url_en: "/files/cv-en.pdf"
-resume_url_pt_br: "/files/cv-pt.pdf"
+resume_url_en: "/files/[DADOS]CV[en].pdf"
+resume_url_pt_br: "/files/[DADOS]CV[pt].pdf"
 resume_label: "Download Resume"
 
 positions:

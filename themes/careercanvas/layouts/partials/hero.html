@@ -52,7 +52,13 @@
           <a href="#contact" class="bg-bg text-primary dark:text-white px-8 py-4 rounded-lg font-semibold hero-button button-hover">
             {{ i18n "getInTouch" }}
           </a>
-          <a href="{{ .Site.Params.resume_url_en }}" target="_blank" rel="noopener" class="bg-bg text-primary dark:text-white px-8 py-4 rounded-lg font-semibold hero-button button-hover">
+          {{ $resume_url := "" }}
+          {{ if eq .Site.Language.Lang "pt-br" }}
+            {{ $resume_url = index .Site.Params "resume_url_pt-br" }}
+          {{ else }}
+            {{ $resume_url = .Site.Params.resume_url_en }}
+          {{ end }}
+          <a href="{{ $resume_url | relURL }}" target="_blank" rel="noopener" class="bg-bg text-primary dark:text-white px-8 py-4 rounded-lg font-semibold hero-button button-hover">
             {{ i18n "viewCV" }}
           </a>
         </div>
