@@ -6,7 +6,7 @@
 # - Production: Environment variables injected via GitHub Actions
 # - See comments below for setup instructions
 #
-baseURL = "https://github.io/cv-site/carolbalbs.com"
+baseURL = "https://github.io/cv-site/"
 languageCode = "en-us"
 title = "Ana Carolina Balbino"
 theme = "careercanvas"
@@ -65,8 +65,8 @@ github_text = "github.com/carolbalbs"
 copyright = "© 2026 | Ana Carolina Balbino"
 
 
-resume_url_en = "/files/[DADOS]CV[en].pdf"
-resume_url_pt-br = "/files/[DADOS]CV[pt].pdf"
+resume_url_en = "../files/[DADOS]CV[en].pdf"
+resume_url_pt-br = "../files/[DADOS]CV[pt].pdf"
 resume_label = "View CV"
 
 # Contact Form Configuration
