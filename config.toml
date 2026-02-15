@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.en.params]
       tagline = "Think. Code. Solve."
-      hero_description = "-----"
+      hero_description = "Oii "
       hero_location = "Salvador, Brazil"
       collab_tags = [
         "Data Science",
@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
   writeStats = true
 
 [params]
-name = ""
+name = "Ana Carolina"
 email = "carolbalbinosilva4@gmail.com"
 profile_image = "../images/about.jpg"
 author = "Ana Carolina Balbino"
@@ -65,8 +65,8 @@ github_text = "github.com/carolbalbs"
 copyright = "© 2026 | Ana Carolina Balbino"
 
 
-resume_url_en = "/files/cv-en.pdf"
-resume_url_pt-br = "/files/cv-pt.pdf"
+resume_url_en = "/files/[DADOS]CV[en].pdf"
+resume_url_pt-br = "/files/[DADOS]CV[pt].pdf"
 resume_label = "View CV"
 
 # Contact Form Configuration
