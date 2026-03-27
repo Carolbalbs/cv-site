@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.en.params]
       tagline = "Think. Code. Solve."
-      hero_description = "Oi"
+      hero_description = "I am interested in Data Engineering and Artificial Intelligence, and I aim to apply best practices in building data-driven pipelines and solutions within collaborative and innovative environments."
       hero_location = "Salvador, Brazil"
       collab_tags = [
         "Data Science",
@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = false
         weight = 2
         [languages.pt-br.params]
           tagline = "Pense. Programe. Resolva."
-          hero_description = "-----"
+          hero_description = "Tenho interesse em Engenharia de Dados e Inteligência Artificial, buscando aplicar boas práticas na construção de pipelines e soluções orientadas a dados, em ambientes colaborativos e inovadores."
           hero_location = "Salvador, Brasil"
           collab_tags = [
             "Ciencia de Dados",

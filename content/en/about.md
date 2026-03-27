@@ -4,46 +4,43 @@ author: "Ana Carolina Balbino"
 type: "homepage"
 featured_image: "/images/about.jpg"
 
-
 study: >-
-  Currently based in **Montréal** 🇨🇦, I'm deepening my skills in **Artificial Intelligence and Machine Learning** 🤖 at **Collège LaSalle**. I work with **Python** 🐍, **PyTorch**, and **predictive modeling** 📊 to build intelligent systems that bridge the gap between engineering and data science.
+  Deepening my skills in **Artificial Intelligence and Machine Learning** 🤖 through personal projects. The language I use most right now is **Python** 🐍 to build small intelligent projects that connect engineering and data science.
 
-passion_title: "What I'm passionate about"
+passion_title: "What drives me"
 passion_text: >-
-  I'm passionate about learning and applying **AI to real-world engineering challenges** 🔬. At <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, I design and develop **scalable full-stack solutions** using **Python (FastAPI, NestJS)** and **React (Next.js, TypeScript)** for LLM-based security and compliance platforms, maintaining a **50/50 split between backend and frontend development** ⚖️. I implement and optimize **PostgreSQL databases**, apply **OOP principles and design patterns (DRY, YAGNI, SOLID)** to build maintainable codebases, and collaborate with **global distributed teams** in Agile Scrum environments 🤝. Previously at <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, I led the development of **autonomous structural analysis tools** and **ML models** for concrete estimation 🏢. My goal is to create **innovative solutions** that have a real impact on the built environment.
+  I love learning and applying new things, especially to solve real everyday challenges.
 
 mix: >-
-  With experience in both **structural engineering** 🏗️ and **software development** 💻, I bring a **unique perspective** to technical challenges. I've led teams in building everything from **physical structures to scalable software systems**, always focusing on **practical, efficient solutions** ⚡. My **international background** and commitment to **continuous learning** drive me to bridge disciplines and deliver value across industries.
+  I am a Computer Science student at UFBA, with an interdisciplinary degree in Science and Technology with an emphasis on Data, and experience in research projects involving data analysis, statistical modeling, and Machine Learning. I work on data collection, processing, and exploration, as well as model building and evaluation using Python, R, and tools like pandas and SQL.
+
+  I also work on AI applied to educational robotics, integrating deep learning and data analysis concepts in projects for female engagement in STEM.
 
 personal: >-
-  Outside work, I enjoy **tennis** 🎾, **cooking** 👨‍🍳, **drums** 🥁, **swimming** 🏊‍♂️, and **photography** 📸. I also **volunteer at LaSalle College**, helping new students settle in and supporting the academic community 🤝.
+  Outside of work, I enjoy **playing footvolley** 🏐, **cooking** 👨‍🍳, **dancing** 💃🏾, **martial arts** 🥋, and **Guitar Hero** 🎸. I also **volunteer at Collège LaSalle**, helping new students adapt and supporting the academic community 🤝.
 
 quickfacts:
   - icon: "briefcase"
     title: "Current Role"
-    value: "🤖 AI and Full Stack Developer at <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    value: "🤖 Developer and Research Student at <a href=\"https://ufba.br\" target=\"_blank\" rel=\"noopener noreferrer\"><strong> University Federal of Bahia</strong></a>"
   - icon: "graduation-cap"
     title: "Education"
-    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Chile</a>, **Bachelor's Degree in Civil Engineering**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Artificial Intelligence and Machine Learning**"
-  - icon: "award"
-    title: "Recent Achievement"
-    value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
+    value: "🏗️ <a href=\"https://bcc.ufba.br/\" target=\"_blank\" rel=\"noopener noreferrer\">Federal University of Bahia</a>, **Bachelor's in Interdisciplinary Science, Technology, and Innovation and Computer Science** 🤖"
   - icon: "language"
     title: "Languages"
     value: |
-      - 🇬🇧 English (IELTS C1)
-      - 🇪🇸 Spanish (Native)
-      - 🇫🇷 French (TCF B2)
+      - 🇬🇧 English (B2)
+      - 🇧🇷 Portuguese (Native)
+
   - icon: "heart"
     title: "Interests"
     value: |
       - ♟️ Chess
-      - 🎾 Tennis
+      - 🏐 Footvolley
       - 🚴 Cycling
-      - 🏊‍♂️ Swimming
+      - 🥋 Martial Arts
       - 👨‍🍳 Cooking
-      - 🥁 Drumming
-      - 📸 Photography
-      - ✈️ Traveling
+      - 🎥 Documentaries
+      - ✈️ Travel
       - 📚 Reading
 ---
