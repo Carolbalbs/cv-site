@@ -8,10 +8,9 @@
           <div class="relative">
             <div class="w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-primary p-1 shadow-2xl">
               <div class="w-full h-full rounded-full overflow-hidden bg-white">
-                <img 
-                  src="{{ .Site.Params.profile_image }}" 
-                  alt="Portrait of {{ .Site.Params.name }}" 
-                  loading="lazy" 
+                <img
+                 src="{{ .Site.Params.profile_image | absURL }}"
+                 alt="Portrait of {{ .Site.Params.name }}"                  loading="lazy" 
                   decoding="async" 
                   class="object-cover w-full h-full rounded-full"
                 />
@@ -58,7 +57,7 @@
           {{ else }}
             {{ $resume_url = .Site.Params.resume_url_en }}
           {{ end }}
-          <a href="{{ $resume_url | relURL }}" target="_blank" rel="noopener" class="bg-bg text-primary dark:text-white px-8 py-4 rounded-lg font-semibold hero-button button-hover">
+          <a href="{{ $resume_url | absURL }}" target="_blank" rel="noopener" class="bg-bg text-primary dark:text-white px-8 py-4 rounded-lg font-semibold hero-button button-hover">
             {{ i18n "viewCV" }}
           </a>
         </div>
