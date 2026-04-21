@@ -1,26 +1,26 @@
 [[main]]
 name = "About"
-url = "/#about"
+url = "#about"
 weight = 2
 
 [[main]]
 name = "Skills"
-url = "/#skills"
+url = "#skills"
 weight = 3
 
 [[main]]
 name = "Experience"
-url = "/#experience"
+url = "#experience"
 weight = 4
 
 [[main]]
 name = "Contact"
-url = "/#contact"
+url = "#contact"
 weight = 5
 
 [[main]]
 name = "Tech Stack"
-url = "/#technical"
+url = "#technical"
 weight = 4.5
 
 [[main]]

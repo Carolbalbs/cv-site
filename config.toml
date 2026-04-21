@@ -6,7 +6,7 @@
 # - Production: Environment variables injected via GitHub Actions
 # - See comments below for setup instructions
 #
-baseURL = "https://carolbalbs.github.io/cv-site"
+baseURL = "https://carolbalbs.github.io/cv-site/"
 languageCode = "en-us"
 title = "Ana Carolina Balbino"
 theme = "careercanvas"
