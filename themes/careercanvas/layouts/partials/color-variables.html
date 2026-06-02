@@ -8,9 +8,9 @@
   --color-second: {{ $defaultPalette.second_color }};
   --color-third: {{ $defaultPalette.third_color }};
   {{ else }}
-  --color-primary: #474A51;
-  --color-second: #E52521;
-  --color-third: #3CB043;
+  --color-primary: #33204a;
+  --color-second: #b560ad;
+  --color-third: #9a72ab;
   {{ end }}
   
   /* Color variations - derived from base colors */
@@ -38,7 +38,7 @@
   --color-gray-900: color-mix(in srgb, var(--color-primary) 90%, black);
   
   /* Pure white and black for backgrounds and text */
-  --color-white: #ffffff;
+  --color-white: #fbf5ff;
   --color-black: #000000;
   
   /* Shadow colors */
@@ -57,6 +57,7 @@
   --color-text-primary: var(--color-gray-900);
   --color-text-secondary: var(--color-gray-700);
   --color-border: var(--color-gray-300);
+  --color-hero-text: #291a3b;
 }
 
 /* Dark Mode */
@@ -69,5 +70,6 @@
   --color-border: var(--color-gray-700);
   --color-text-muted: var(--color-gray-400);
   --color-border-secondary: var(--color-gray-600);
+  --color-hero-text: var(--color-white);
 }
 </style>

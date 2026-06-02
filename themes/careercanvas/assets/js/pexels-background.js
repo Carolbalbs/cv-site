@@ -132,22 +132,21 @@ class PexelsBackground {
         `;
 
         // Create overlay to maintain text readability
+        const isDarkMode = document.documentElement.classList.contains('dark');
         const overlay = document.createElement('div');
         overlay.className = 'pexels-overlay';
+        
+        const overlayBg = isDarkMode 
+            ? 'linear-gradient(135deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.2) 25%, rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0.2) 75%, rgba(0, 0, 0, 0.4) 100%)'
+            : 'linear-gradient(135deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.6) 100%)';
+
         overlay.style.cssText = `
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: linear-gradient(
-                135deg,
-                rgba(0, 0, 0, 0.4) 0%,
-                rgba(0, 0, 0, 0.2) 25%,
-                rgba(0, 0, 0, 0.3) 50%,
-                rgba(0, 0, 0, 0.2) 75%,
-                rgba(0, 0, 0, 0.4) 100%
-            );
+            background: ${overlayBg};
             z-index: 1;
             pointer-events: none;
             opacity: 0;
@@ -170,7 +169,8 @@ class PexelsBackground {
                 const rightContent = flexContainer.children[1]; // Second child (right content)
                 if (rightContent && rightContent.classList.contains('lg:w-1/2')) {
                     // Add blurred background to the right side text container
-                    rightContent.style.background = 'rgba(255, 255, 255, 0.02)';
+                    const boxBg = isDarkMode ? 'rgba(255, 255, 255, 0.02)' : 'rgba(0, 0, 0, 0.02)';
+                    rightContent.style.background = boxBg;
                     rightContent.style.backdropFilter = 'blur(8px)';
                     rightContent.style.borderRadius = '30px';
                     rightContent.style.padding = '2rem';

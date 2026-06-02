@@ -220,6 +220,46 @@
     background-clip: text;
   }
 
+  /* Light mode override for hero text and background */
+  html:not(.dark) .hero-section.gradient-bg {
+    background: var(--color-bg) !important;
+  }
+
+  html:not(.dark) .hero-section .hero-name,
+  html:not(.dark) nav a.font-heading {
+    background: none !important;
+    -webkit-text-fill-color: var(--color-hero-text) !important;
+    color: var(--color-hero-text) !important;
+  }
+
+  html:not(.dark) .hero-section .hero-text-accent,
+  html:not(.dark) .hero-section .hero-text-muted {
+    color: var(--color-hero-text) !important;
+  }
+
+  /* Hero Box Styles */
+  .hero-description-box {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(8px);
+  }
+
+  html:not(.dark) .hero-description-box {
+    background: rgba(0, 0, 0, 0.05);
+  }
+
+  .hero-social-box {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+  }
+
+  html:not(.dark) .hero-social-box {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  html:not(.dark) .hero-social-box a {
+    color: var(--color-hero-text) !important;
+  }
+
   .hero-tagline::after {
     content: '';
     position: absolute;
